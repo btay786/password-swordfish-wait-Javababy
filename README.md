@@ -27,6 +27,9 @@ THEN the password is either displayed in an alert or written to the page
 After weeks of work, my tutor and I realized code needed to return password and it has come full circl to completely generatre a password in an alert and in the text box.  YAY!!!!
 
 #### git hub
+https://github.com/btay786/password-swordfish-wait-Javababy
 
 ##### live site
+ https://btay786.github.io/password-swordfish-wait-Javababy/
 
+ 
